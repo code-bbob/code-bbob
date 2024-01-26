@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/code-bbob/code-bbob/blob/main/bibhab%20banner.png)
 <h1 align="center">Hi 👋, I'm Bibhab.</h1>
-<h3 align="center">A passionate curious developer from Nepal.</h3>
+<h3 align="center">A curious developer from Nepal.</h3>
 
 <p align="left"> <a href="https://twitter.com/codewithbibhab" target="blank"><img src="https://img.shields.io/twitter/follow/codewithbibhab?logo=twitter&style=for-the-badge" alt="codewithbibhab" /></a> </p>
 
