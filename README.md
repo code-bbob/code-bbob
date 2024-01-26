@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://github.com/code-bbob/code-bbob/blob/main/bibhab%20banner.png)
 <h1 align="center">Hi 👋, I'm Bibhab.</h1>
 <h3 align="center">A passionate curious developer from Nepal.</h3>
 
